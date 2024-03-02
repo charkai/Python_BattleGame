@@ -1,7 +1,7 @@
 # Python_BattleGame
 My first project: a text-based battle game in python. 
 
-This semester was my first introduction to coding, in semester 1 of 2021. I had no prior coding experience before taking INFO1110, Introduction to Programming. 
+This semester was my first introduction to coding, as an assignment in semester 1 of 2021. I had no prior coding experience before taking Introduction to Programming. 
 
 This game, constructed for the unit of study, demonstrates my first interactions with coding fundamentals such as control flow, functions and classes. 
 
